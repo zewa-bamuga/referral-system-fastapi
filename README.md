@@ -25,3 +25,14 @@ or
 - use http://localhost/api/docs to access web Swagger
 - use http://rabbitmq.localhost to access rabbitmq dashboard (see credentials in .env or .env.example)
 - use `make logs` to see logs
+
+# Technology Stack
+
+- Python (FastAPI)
+- Dependency Injection
+- PostgreSQL
+- SQLAlchemy
+- RebbitMQ
+- Celery
+- Docker
+- Traefik
