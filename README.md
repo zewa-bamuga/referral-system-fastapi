@@ -30,6 +30,7 @@ or
 # Technology Stack
 
 - Python (FastAPI)
+- Dependency Injection
 - PostgreSQL
 - SQLAlchemy
 - RebbitMQ
